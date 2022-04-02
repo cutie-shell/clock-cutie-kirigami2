@@ -4,10 +4,10 @@
 - SPDX-License-Identifier: GPL-2.0-or-later
 -->
 
-# KClock <img src="logo.png" width="40"/> 
-A convergent clock application for Plasma.
+# Clock <img src="logo.png" width="40"/> 
+A cutie clock app based on kclock for cutie-shell.
 
-<a href='https://flathub.org/apps/details/org.kde.kclock'><img width='190px' alt='Download on Flathub' src='https://flathub.org/assets/badges/flathub-badge-i-en.png'/></a>
+
 
 ## Features
 * Alarms
@@ -15,10 +15,7 @@ A convergent clock application for Plasma.
 * World Clocks
 * Timers
 
-## Links
-* Project page: https://invent.kde.org/plasma-mobile/kclock
-* File issues: https://invent.kde.org/plasma-mobile/kclock/-/issues
-* Development channel: https://matrix.to/#/#plasmamobile:matrix.org
+
 
 ## Installing
 This will compile and install kclock, kclockd, and the plasmoids onto the system. When running kclock, make sure that kclockd is running first (it is configured to autostart in sessions).
