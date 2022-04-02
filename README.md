@@ -77,9 +77,6 @@ Intended to provide `widgets` similar to those you can find on mainstream mobile
 
 ## Gallery
 
-<img src="screenshots/kclock-mobile-timezones.png" width="200px">
-<img src="screenshots/kclock-mobile-timers.png" width="200px">
-<img src="screenshots/kclock-mobile-stopwatch.png" width="200px">
-<img src="screenshots/kclock-mobile-alarms.png" width="200px">
-<img src="screenshots/kclock-desktop-timezones.png" width="400px">
-<img src="screenshots/kclock-desktop-timer.png" width="400px">
+<img src="screenshots/01.png" width="200px">
+<img src="screenshots/02.png" width="200px">
+<img src="screenshots/03.png" width="200px">
