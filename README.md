@@ -68,12 +68,6 @@ Run with these environment variables to have mobile controls:
 QT_QUICK_CONTROLS_MOBILE=true kclock
 ```
 
-### Plasmoids
-Various plasmoids for kclockd exist, and some also communicate with [KWeather](https://invent.kde.org/plasma-mobile/kweather).
-
-Currently we have two plasmoids, expect more in the future.
-
-Intended to provide `widgets` similar to those you can find on mainstream mobile platforms.
 
 ## Gallery
 
